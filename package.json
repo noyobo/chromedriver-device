@@ -1,0 +1,23 @@
+{
+  "name": "chromedriver-device",
+  "version": "0.1.0",
+  "description": "chromedriver device list ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noyobo/chromedriver-device.git"
+  },
+  "keywords": [
+    "chromedriver",
+    "device"
+  ],
+  "author": "noyobo <noyobo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noyobo/chromedriver-device/issues"
+  },
+  "homepage": "https://github.com/noyobo/chromedriver-device#readme"
+}
